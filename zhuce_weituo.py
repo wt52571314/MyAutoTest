@@ -9,12 +9,12 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys  
 
-basepath = 'D:\\log'
+basepath = '*:\\**'
 now_time = time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
 filepath = basepath+'\\'+str(now_time)+'zhuce_weituo.txt'
 
 browser = webdriver.Firefox()    
-url_index = 'https://wj-01.zleida.com/'    
+url_index = 'https://******************'    
 browser.get(url_index)  #打开页面
 browser.maximize_window()  #浏览器窗口最大化
 res_register = browser.find_elements_by_xpath("html/body/div[1]/div/div[2]/a[2]")  #使用xpath查找页面中的div元素
