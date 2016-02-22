@@ -7,7 +7,7 @@
 import time
 
 Base_path = 'D:\\log'
-now_time = time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
+now_time = time.strftime('%Y-%m-%d',time.localtime(time.time()))
 def write_log(note,fname):
     File_path = Base_path+'\\'+str(now_time)+fname+'.log'
     f = open(File_path,'a+')
