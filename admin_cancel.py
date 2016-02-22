@@ -10,12 +10,12 @@ import time
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys  
 
-basepath = 'D:\\log'
+basepath = '*:\\****'
 now_time = time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time()))
 filepath = basepath+'\\'+str(now_time)+'admin_cancel'+'.txt'
 
 browser = webdriver.Firefox()    
-url_index = 'https://ij-01.zleida.com/auth/login'    
+url_index = 'https://********************'    
 browser.get(url_index)  
 browser.maximize_window()  
 res_adminname = browser.find_elements_by_xpath("html/body/div[1]/div/div/div/div[2]/form/fieldset/div[1]/input")  
@@ -23,7 +23,7 @@ for r_adminname in res_adminname:
     r_adminname.send_keys('admin')
 res_admin_password = browser.find_elements_by_xpath("html/body/div[1]/div/div/div/div[2]/form/fieldset/div[2]/input")  
 for r_admin_password in res_admin_password:
-    r_admin_password.send_keys('111111')
+    r_admin_password.send_keys('*******')
 res_admin_post = browser.find_elements_by_xpath("html/body/div[1]/div/div/div/div[2]/form/fieldset/button") 
 for r_admin_post in res_admin_post:
     r_admin_post.click()
