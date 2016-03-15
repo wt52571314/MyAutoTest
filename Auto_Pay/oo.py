@@ -33,8 +33,8 @@ for line in fp_input:
     a = str(List_json).replace('\'', '\"')
     a = a.replace(' ', '')
     List_json = []
-    url_save = 'http://192.168.214.221:9099/portfolio/user/saveQuestionAns?uid=1118155&birthday=1985-07-08&answers='+a
-    url_result = 'http://192.168.214.221:9099/portfolio/user/getUserBasicInfo?uid=1118155'
+    url_save = 'http://*******/portfolio/user/saveQuestionAns?uid=1118155&birthday=1985-07-08&answers='+a
+    url_result = 'http://********/portfolio/user/getUserBasicInfo?uid=1118155'
     try:
             s_save = urllib2.urlopen(url_save).read()
             s_result = urllib2.urlopen(url_result).read()
