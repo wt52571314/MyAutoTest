@@ -5,7 +5,7 @@
 #组合功能实验
 #===============================================================================
 def get_result_in_vector(vector, N, tmp, tmp_result):
-    file = open('D:\log\input.txt', 'a')
+    file = open('D:\log\\test.txt', 'a')
     for i in range(0, len(vector)):
         if i < len(vector[N]):
             tmp.append(vector[N][i])
