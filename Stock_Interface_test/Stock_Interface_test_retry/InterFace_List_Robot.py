@@ -5,10 +5,10 @@
 # BBAE智能投顾接口List
 # ===============================================================================
 import json
-BaseURL = 'https://api.bbaecdn.com'  # BBAE
-# BaseURL = 'https://stock-api.jimustock.com'  # 原积木
-# BaseURL = 'https://api-web.bbae.com'  # web
-# BaseURL = 'https://sj-api-02.jimustock.com'  # 测试环境
+BaseURL = 'https://******'  # ******
+# BaseURL = 'https://******'  # 原积木
+# BaseURL = 'https://******'  # web
+# BaseURL = 'https://******'  # 测试环境
 List_interface_get = {
     BaseURL+'/api/v1/security/userInfo': '获取用户信息'
     , BaseURL+'/api/v1/us/roboAdvisor/getAccountId': '智能投顾账户标识获取'
@@ -65,8 +65,8 @@ List_interface_get = {
 #     , 7: {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
 #     , 8: {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
 # }
-user_name = '18070505645'
-pwd = '111111'
+user_name = '******'
+pwd = '******'
 url_result = BaseURL+'/api/v1/security/magicCode'
 List_get = []
 List_post = []
