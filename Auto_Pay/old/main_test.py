@@ -4,10 +4,9 @@
 #@ Date:2016-2-22
 #根据输入输出对照结果
 #===============================================================================
-from input import *
-from function import *
-from output import *
-from check import *
+from Auto_Pay.old.function import *
+from Auto_Pay.old.output import *
+from Auto_Pay.old.check import *
 
 if __name__ == '__main__':
     dir_input = Get_Input()

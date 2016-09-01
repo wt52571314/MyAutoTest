@@ -4,8 +4,11 @@
 #@ Date:2016-2-22
 #对输入进行的处理
 #===============================================================================
-from input import *
 import urllib2
+
+from Auto_Pay.old.input import *
+
+
 def function(dir):
     for key in dir:
         List = []
@@ -16,9 +19,9 @@ def function(dir):
             s = urllib2.urlopen(url).read()
             print s
             print type(s)
-        except urllib2.HTTPError,e:
+        except urllib2.HTTPError, e:
            print e.code
-        except urllib2.URLErrror,e:
+        except urllib2.URLErrror, e:
             print str(e)
         dir[key] = List                                               #此处将返回结果添加至字典
     return dir

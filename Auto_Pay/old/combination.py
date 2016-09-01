@@ -5,7 +5,7 @@
 #组合功能实验
 #===============================================================================
 def get_result_in_vector(vector, N, tmp, tmp_result):
-    file = open('D:\log\\test.txt', 'a')
+    file = open('D:\log\\input.txt', 'a')
     for i in range(0, len(vector)):
         if i < len(vector[N]):
             tmp.append(vector[N][i])
@@ -23,6 +23,7 @@ def get_result_in_vector(vector, N, tmp, tmp_result):
             continue
     file.close()
 
+
 def get_all_combination(List, result):
     tmp_vec = []
     tmp_result = []
@@ -33,40 +34,30 @@ def get_all_combination(List, result):
             result[i].append(tmp_result[i][j])
 
 if __name__ == '__main__':
-    arr1 = [1, 2, 3, 4, 5]
-    arr2 = [6, 7, 8, 9, 10]
-    arr3 = [11, 12]
-    arr4 = [13, 14, 15, 16, 17]
-    arr5 = [18, 19, 21, 22, 23]
-    arr6 = [24, 25]
-    arr7 = [26, 27]
-    arr8 = [28, 29]
-    arr9 = [30, 31, 32]
-    arr10 = [33, 34]
-    arr11 = [35, 36]
-    arr12 = [52, 53]
-    arr13 = [37, 38, 39, 40]
-    arr14 = [41, 42, 43, 44]
-    arr15 = [45, 46, 47, 48, 49, 50, 51]
+    arr1 = [283, 284, 285, 286, 287]
+    arr2 = [288, 289, 290, 291, 292, 293]
+    arr3 = [294, 295]
+    arr4 = [296, 297]
+    arr5 = [298, 299, 300]
+    arr6 = [301, 302]
+    arr7 = [303, 304]
+    arr8 = [305, 306, 307, 308]
+    arr9 = [309, 310, 311, 312]
+    arr10 = [313, 314, 315, 316, 317]
     first_dimension = len(arr1) + len(arr2) + len(arr3)
     result = []
-    vec = []
-    vec.append(arr1)
-    vec.append(arr2)
-    vec.append(arr3)
-    vec.append(arr4)
-    vec.append(arr5)
-    vec.append(arr6)
-    vec.append(arr7)
-    vec.append(arr8)
-    vec.append(arr9)
-    vec.append(arr10)
-    vec.append(arr11)
-    vec.append(arr12)
-    vec.append(arr13)
-    vec.append(arr14)
-    vec.append(arr15)
-    get_all_combination(vec, result)
+    vec_list = []
+    vec_list.append(arr1)
+    vec_list.append(arr2)
+    vec_list.append(arr3)
+    vec_list.append(arr4)
+    vec_list.append(arr5)
+    vec_list.append(arr6)
+    vec_list.append(arr7)
+    vec_list.append(arr8)
+    vec_list.append(arr9)
+    vec_list.append(arr10)
+    get_all_combination(vec_list, result)
 
     # for i in range(0,first_dimension-1):
     #     for j in range(0,2):

@@ -7,7 +7,7 @@
 def Get_Input():
     i = 1
     mydir = {}
-    fp = open('D:\log\input.txt','r')
+    fp = open('D:\log\input.txt', 'r')
     lines = fp.readlines()
     for line in lines:
         line = str(line)[:-1]
