@@ -39,10 +39,10 @@ def login(driver):
     button_login.click()
 
     text_username = driver.find_element_by_id('login_name')
-    text_username.send_keys('18070505645')
+    text_username.send_keys('******')
 
     text_password = driver.find_element_by_id('login_pwd')
-    text_password.send_keys('111111')
+    text_password.send_keys('******')
 
     text_ok = driver.find_element_by_id('login_pwdShowstatus')
     text_ok.click()
