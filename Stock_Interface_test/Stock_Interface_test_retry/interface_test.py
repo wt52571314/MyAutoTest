@@ -111,10 +111,10 @@ def main_get(list_result, cookies):
     return list_result
 
 
-def main_post(resualt_list, url_list, param_list, payload_list, note_list, cookies):
+def main_post(result_list, url_list, param_list, payload_list, note_list, cookies):
     """
     模拟post请求
-    :param resualt_list: 结果字典
+    :param result_list: 结果字典
     :param url_list: 接口字典
     :param param_list: 入参字典
     :param payload_list: header字典
@@ -136,11 +136,11 @@ def main_post(resualt_list, url_list, param_list, payload_list, note_list, cooki
                 print a.content
                 print note_list[key]+'接口访问成功'
                 split_line()
-            resualt_list.append(a.content+'||'+url_list[key])
+            result_list.append(a.content+'||'+url_list[key])
         except AssertionError:
             print 'One Error in post'
             pass
-    return resualt_list
+    return result_list
 
 
 

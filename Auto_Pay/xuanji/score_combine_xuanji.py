@@ -115,7 +115,7 @@ def write_file(result_so):
     :param result_so:分数结果
     :return:None
     """
-    file_index = 1152
+    file_index = 0
     counter = 0
     for elem in result_so:
         if counter % 4000 == 0:
@@ -134,11 +134,11 @@ if __name__ == '__main__':
     :arg: arr[]:里面是元组，元组第一项是题号，第二项是投资风险分
     """
     i = 0
-    arr1 = [(1.2, -1), (1.3, -2), (1.4, 0)]  # [(1.1, 0)]
-    # arr2 = [(2.1, -2), (2.2, -1), (2.3, 0), (2.4, 1), (2.5, 2)]
-    arr3 = [(3.1, -2), (3.2, -1), (3.3, 0), (3.4, 1), (3.5, 1)]
-    # arr4 = [(4.1, -2), (4.2, -1), (4.3, 0), (4.4, 0), (4.5, 1)]
-    arr5 = [(5.1, -2), (5.2, -1), (5.3, 0), (5.4, 0), (5.5, 1)]
+    arr1 = [(1.1, 0)]  # [(1.2, -1), (1.3, -2), (1.4, 0)]
+    arr2 = [(2.1, -2), (2.2, -1), (2.3, 0), (2.4, 1), (2.5, 2)]
+    # arr3 = [(3.1, -2), (3.2, -1), (3.3, 0), (3.4, 1), (3.5, 1)]
+    arr4 = [(4.1, -2), (4.2, -1), (4.3, 0), (4.4, 0), (4.5, 1)]
+    # arr5 = [(5.1, -2), (5.2, -1), (5.3, 0), (5.4, 0), (5.5, 1)]
     arr6 = [(6.1, 3), (6.2, 2), (6.3, 1), (6.4, 0), (6.5, -1)]
     arr7 = [(7.1, 0), (7.2, 2), (7.3, 3), (7.4, 1)]
     arr8 = [(8.1, 0), (8.2, 1)]
@@ -153,10 +153,10 @@ if __name__ == '__main__':
     result = []
     vec_list = []
     vec_list.append(arr1)
-    # vec_list.append(arr2)
-    vec_list.append(arr3)
-    # vec_list.append(arr4)
-    vec_list.append(arr5)
+    vec_list.append(arr2)
+    # vec_list.append(arr3)
+    vec_list.append(arr4)
+    # vec_list.append(arr5)
     vec_list.append(arr6)
     vec_list.append(arr7)
     vec_list.append(arr8)

@@ -1,0 +1,13 @@
+POST http://jmbx-miracle-app.qa-06.jimu.com/merak/api/v2/question/saveQuestion HTTP/1.1
+Host: jmbx-miracle-app.qa-06.jimu.com
+x-device-info: IPhone6/9.3.2/ios/8010122/3
+Content-Length: 1021
+Accept-Language: zh-Hans-CN;q=1.0
+Accept-Encoding: gzip;q=1.0, compress;q=0.5
+Accept: */*
+User-Agent: python-requests/2.9.1
+Connection: keep-alive
+idfa: 8265BFF6-22A9-4003-87AA-0E3688741977
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+
+lo=0&answers=%5B%7B%27questionId%27%3A+%2717%27%2C+%27questionAns%27%3A+%2761%27%7D%2C+%7B%27questionId%27%3A+%2718%27%2C+%27questionAns%27%3A+%2765%27%7D%2C+%7B%27questionId%27%3A+%2720%27%2C+%27questionAns%27%3A+%2775%27%7D%2C+%7B%27questionId%27%3A+%2722%27%2C+%27questionAns%27%3A+%2785%27%7D%2C+%7B%27questionId%27%3A+%2723%27%2C+%27questionAns%27%3A+%2790%27%7D%2C+%7B%27questionId%27%3A+%2724%27%2C+%27questionAns%27%3A+%2795%27%7D%2C+%7B%27questionId%27%3A+%2725%27%2C+%27questionAns%27%3A+%2796%27%7D%2C+%7B%27questionId%27%3A+%2726%27%2C+%27questionAns%27%3A+%27100%27%7D%2C+%7B%27questionId%27%3A+%2727%27%2C+%27questionAns%27%3A+%27102%27%7D%2C+%7B%27questionId%27%3A+%2728%27%2C+%27questionAns%27%3A+%27104%27%7D%2C+%7B%27questionId%27%3A+%2729%27%2C+%27questionAns%27%3A+%27106%27%7D%2C+%7B%27questionId%27%3A+%2730%27%2C+%27questionAns%27%3A+%27109%27%7D%2C+%7B%27questionId%27%3A+%2731%27%2C+%27questionAns%27%3A+%27113%27%7D%2C+%7B%27questionId%27%3A+%2732%27%2C+%27questionAns%27%3A+%27117%27%7D%5D&la=0

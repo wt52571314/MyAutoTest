@@ -47,19 +47,30 @@ def make_input(input_list):
     :param input_list: get_result_in_vector获取的所有组合
     :return:构造好的答案JSON列表
     """
-    input_combine = []
-    question = [49, 50, 51, 52, 53, 54, 55, 56, 57, 58]
+    print '开始这一步了！！！'
+    # question = [17, 18, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+    question = [17, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+    file_index = 1152
+    counter = 0
+    # input_combine = []
     for combine in input_list:
-        dir_result = {}
-        surveyResult = []
-        for index in range(0, len(combine)):
-            dir_use = {}
-            dir_use['optionId'] = combine[index]
-            dir_use['questionId'] = question[index]
-            surveyResult.append(dir_use)
-        dir_result['surveyResult'] = surveyResult
-        input_combine.append(surveyResult)
-    return input_combine
+        combine_use = []
+        for index_use in range(0, len(combine)):
+            str_use = '{\"questionId\": ' + str(question[index_use]) + ', \"questionAns\": ' + str(combine[index_use])+'}, '
+            # print str_use
+            combine_use.append(str_use)
+            # print combine_use
+        if counter % 4000 == 0:
+            file_index += 1
+            file_patch = 'D:\\log\\xuanji\\input\\input'+str(file_index)+'.txt'
+            file_save = open(file_patch, 'a+')
+        file_save.writelines(combine_use)
+        file_save.writelines('\n')
+        counter += 1
+        if counter % 4000 == 0:
+            file_save.close()
+    #     input_combine.append(combine_use)
+    # return input_combine
 
 
 def save_input(input_com):
@@ -68,6 +79,7 @@ def save_input(input_com):
     :param input_com: 构造好的答案JSON列表
     :return:None
     """
+    print '开始存文件了'
     file_index = 0
     counter = 0
     for item in input_com:
@@ -83,22 +95,23 @@ def save_input(input_com):
 
 
 if __name__ == '__main__':
-    arr1 = [1.2, 1.3, 1.4]  # [1.1]
-    # arr2 = [2.1, 2.2, 2.3, 2.4, 2.5]
-    arr3 = [3.1, 3.2, 3.3, 3.4, 3.5]
-    # arr4 = [4.1, 4.2, 4.3, 4.4, 4.5]
-    arr5 = [5.1, 5.2, 5.3, 5.4, 5.5]
-    arr6 = [6.1, 6.2, 6.3, 6.4, 6.5]
-    arr7 = [7.1, 7.2, 7.3, 7.4]
-    arr8 = [8.1, 8.2]
-    arr9 = [9.1, 9.2]
-    arr10 = [10.1, 10.2, 10.3]
-    arr11 = [11.1, 11.2]
-    arr12 = [12.1, 12.2]
-    arr13 = [13.1, 13.2]
-    arr14 = [14.1, 14.2, 14.3, 14.4]
-    arr15 = [15.1, 15.2, 15.3, 15.4]
-    arr16 = [16.1, 16.2, 16.3, 16.4, 16.5, 16.6]
+    # arr1 = [61]
+    arr1 = [62, 63, 64]
+    # arr2 = [65, 66, 67, 68, 69]
+    arr3 = [70, 71, 72, 73, 74]
+    # arr4 = [75, 76, 77, 78, 79]
+    arr5 = [80, 81, 82, 83, 84]
+    arr6 = [85, 86, 87, 88, 89]
+    arr7 = [90,  91, 92, 93]
+    arr8 = [94, 95]
+    arr9 = [96, 97]
+    arr10 = [98, 99, 100]
+    arr11 = [101, 102]
+    arr12 = [103, 104]
+    arr13 = [105, 106]
+    arr14 = [107, 108, 109, 110]
+    arr15 = [111, 112, 113, 114]
+    arr16 = [115, 116, 117, 118, 119, 120]
     result = []
     vec_list = []
     vec_list.append(arr1)
@@ -119,5 +132,7 @@ if __name__ == '__main__':
     vec_list.append(arr16)
     tmp_vec = []
     input_use = get_result_in_vector(vec_list, 0, tmp_vec, result)
-    save_use = make_input(input_use)
-    save_input(save_use)
+
+    make_input(input_use)
+    # save_use = make_input(input_use)
+    # save_input(save_use)

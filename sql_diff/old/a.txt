@@ -1,0 +1,23 @@
+ java.lang.NullPointerException
+// at com.pintec.merak.login.RegisterFragment.afterTextChanged(Unknown Source)
+// at android.widget.TextView.sendAfterTextChanged(TextView.java:7663)
+// at android.widget.TextView$ChangeWatcher.afterTextChanged(TextView.java:9539)
+// at android.text.SpannableStringBuilder.sendAfterTextChanged(SpannableStringBuilder.java:1004)
+// at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:531)
+// at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:435)
+// at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:30)
+// at android.view.inputmethod.BaseInputConnection.replaceText(BaseInputConnection.java:772)
+// at android.view.inputmethod.BaseInputConnection.commitText(BaseInputConnection.java:209)
+// at com.android.internal.widget.EditableInputConnection.commitText(EditableInputConnection.java:234)
+// at com.android.internal.view.IInputConnectionWrapper.executeMessage(IInputConnectionWrapper.java:294)
+// at com.android.internal.view.IInputConnectionWrapper$MyHandler.handleMessage(IInputConnectionWrapper.java:84)
+// at android.os.Handler.dispatchMessage(Handler.java:99)
+// at android.os.Looper.loop(Looper.java:137)
+// at android.app.ActivityThread.main(ActivityThread.java:5265)
+// at java.lang.reflect.Method.invokeNative(Native Method)
+// at java.lang.reflect.Method.invoke(Method.java:525)
+// at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:760)
+// at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:576)
+// at dalvik.system.NativeStart.main(Native Method)
+//
+** Monkey aborted due to error.

@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a88c04a-f8cb-4082-8399-1294f9a07c97" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/captchaimage/captchaImage1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/check_xuanji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/get_style_xuanji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/make_input_xuanji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/score_combine_xuanji.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/test_room.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/exp_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/tqdm_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/wx_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WeixinBot-master/weixin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/README.MD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/function_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/spider_dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/test_room.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/appnium_test/Android_test/function_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/appnium_test/Android_test/main_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/base_function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/config_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/interface_unit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/main_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/test_room.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/test_room/chinese_re.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/tools/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/tools/create_OFI_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/TEST.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/captchaimage/captch_show.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/b.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/file_diff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/py_hack/chapter1-printf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/python_network/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/python_network/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/send_mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/apply_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/cmd_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/logging_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/os_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/tk_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/async_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/pressure_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/trace_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/yield_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security_tools/game/keyboard_record.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider_test/cp1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/compare_sql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth_02.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_03.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth_03.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2_03.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sync_test/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit_test/need_test_func.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit_test/unit_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/excel/csv_add.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/excel/csv_delete.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/historical_retrospective/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/main_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/test_room.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/tools_list.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/accpt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/server.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pystudy/py_study/pyGame/image/pyGame.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystudy" afterPath="$PROJECT_DIR$/pystudy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/old/test.py" afterPath="$PROJECT_DIR$/Auto_Pay/old/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/check_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/check_xuanji.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/make_input_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/make_input_xuanji.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/score_combine_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/score_combine_xuanji.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py" afterPath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/python_network/part1/test_hostname.py" afterPath="$PROJECT_DIR$/practice/python_network/part1/test_hostname.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystudy/py_study/pyGame/pyGame.py" afterPath="$PROJECT_DIR$/pystudy/py_study/pyGame/pyGame.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock_selenium/log.py" afterPath="$PROJECT_DIR$/stock_selenium/log.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py" afterPath="$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/excel/file_write.py" afterPath="$PROJECT_DIR$/xuanji/tools/excel/file_write.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/excel/read_write_function.py" afterPath="$PROJECT_DIR$/xuanji/tools/excel/read_write_function.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/practice/Mytest.py" afterPath="$PROJECT_DIR$/practice/some_practices/Mytest.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/practice/pyChanllage.py" afterPath="$PROJECT_DIR$/practice/some_practices/pyChanllage.py" />
+    </list>
+    <list id="d2cc1e7d-b499-46fc-b2aa-4f2662fb55ce" name="New changelist" comment="接口返回值测试" />
+    <ignored path="MyAutoTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyAutoTest$test_room.coverage" NAME="test_room Coverage Results" MODIFIED="1485056280093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$MD5.coverage" NAME="MD5 Coverage Results" MODIFIED="1474285929625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_tools/game" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$oo.coverage" NAME="oo Coverage Results" MODIFIED="1458027743252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$pressure_test.coverage" NAME="pressure_test Coverage Results" MODIFIED="1480905755438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_practices" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$create_OFI_file.coverage" NAME="create_OFI_file Coverage Results" MODIFIED="1484217153417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/tools" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$interface_test.coverage" NAME="interface_test Coverage Results" MODIFIED="1466760290296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$file_diff.coverage" NAME="file_diff Coverage Results" MODIFIED="1486538390367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/file_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$time_interval__1_.coverage" NAME="time_interval (1) Coverage Results" MODIFIED="1479894359995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___3_.coverage" NAME="Unittest elementA.test_ (3) Coverage Results" MODIFIED="1467018237324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1483944046036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$socre_combine.coverage" NAME="socre_combine Coverage Results" MODIFIED="1469436902777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1458628519993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$sniff_test.coverage" NAME="sniff_test Coverage Results" MODIFIED="1458286778746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1489115587484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1476785682106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Made_SQL.coverage" NAME="Made_SQL Coverage Results" MODIFIED="1463130884807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$curl_test.coverage" NAME="curl_test Coverage Results" MODIFIED="1458787464811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$chinese_re.coverage" NAME="chinese_re Coverage Results" MODIFIED="1481777135556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/test_room" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$createFirstPlot.coverage" NAME="createFirstPlot Coverage Results" MODIFIED="1474446561047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02/EXTRAS" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$shiyan.coverage" NAME="shiyan Coverage Results" MODIFIED="1458285387911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$charunicodeencode.coverage" NAME="charunicodeencode Coverage Results" MODIFIED="1470983933132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlmap/tamper" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$createDist2.coverage" NAME="createDist2 Coverage Results" MODIFIED="1474446421005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02/EXTRAS" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$trace_test.coverage" NAME="trace_test Coverage Results" MODIFIED="1479882272872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_practices" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$check_xuanji.coverage" NAME="check_xuanji Coverage Results" MODIFIED="1474194592735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$pyChanllage.coverage" NAME="pyChanllage Coverage Results" MODIFIED="1459488083077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1474444602197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$sql_function.coverage" NAME="sql_function Coverage Results" MODIFIED="1483954371169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$rule_config.coverage" NAME="rule_config Coverage Results" MODIFIED="1476681202752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$mulite_buy.coverage" NAME="mulite_buy Coverage Results" MODIFIED="1470826487118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___2_.coverage" NAME="Unittest elementA.test_ (2) Coverage Results" MODIFIED="1467015001109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_TestSequenceFunctions_test_sample__1_.coverage" NAME="Unittest TestSequenceFunctions.test_sample (1) Coverage Results" MODIFIED="1458636304379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_login_test.coverage" NAME="Unittests in login_test Coverage Results" MODIFIED="1467012176668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$score_combine_xuanji.coverage" NAME="score_combine_xuanji Coverage Results" MODIFIED="1483411258448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$function_list.coverage" NAME="function_list Coverage Results" MODIFIED="1479809689303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/appnium_test/Android_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test.coverage" NAME="test Coverage Results" MODIFIED="1476433517407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$server.coverage" NAME="server Coverage Results" MODIFIED="1477551742623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$experiment.coverage" NAME="experiment Coverage Results" MODIFIED="1458635573806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$connect_db.coverage" NAME="connect_db Coverage Results" MODIFIED="1479890366225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tqdm_test.coverage" NAME="tqdm_test Coverage Results" MODIFIED="1483437513373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exploit" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$hack_game_tools_2016_6_30.coverage" NAME="hack_game_tools_2016_6_30 Coverage Results" MODIFIED="1467291357783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$finger_password.coverage" NAME="finger_password Coverage Results" MODIFIED="1456455620133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___1_.coverage" NAME="Unittest elementA.test_ (1) Coverage Results" MODIFIED="1467018736955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$recommend_compare.coverage" NAME="recommend_compare Coverage Results" MODIFIED="1488271998764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$this_is_a_test.coverage" NAME="this_is_a_test Coverage Results" MODIFIED="1484290568793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/test_room" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$function.coverage" NAME="function Coverage Results" MODIFIED="1456195300989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$pyGame.coverage" NAME="pyGame Coverage Results" MODIFIED="1449256770590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/pyGame" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$combination.coverage" NAME="combination Coverage Results" MODIFIED="1468401667471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test_hostname.coverage" NAME="test_hostname Coverage Results" MODIFIED="1477476948235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_network/part1" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tools_list.coverage" NAME="tools_list Coverage Results" MODIFIED="1482834614108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Main_Function__1_.coverage" NAME="Main_Function (1) Coverage Results" MODIFIED="1464081837444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/old" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$cmd_test.coverage" NAME="cmd_test Coverage Results" MODIFIED="1477553160962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$excel_test.coverage" NAME="excel_test Coverage Results" MODIFIED="1474885282846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Cookie.coverage" NAME="Cookie Coverage Results" MODIFIED="1464677824889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jimubox" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$apply_test.coverage" NAME="apply_test Coverage Results" MODIFIED="1486535647334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_model_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$client.coverage" NAME="client Coverage Results" MODIFIED="1477551745745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$output.coverage" NAME="output Coverage Results" MODIFIED="1456133744542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_TestSequenceFunctions_test_sample.coverage" NAME="Unittest TestSequenceFunctions.test_sample Coverage Results" MODIFIED="1458635658799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$createDist.coverage" NAME="createDist Coverage Results" MODIFIED="1474446406710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02/EXTRAS" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$logging_test.coverage" NAME="logging_test Coverage Results" MODIFIED="1480477167648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_model_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$get_cookie.coverage" NAME="get_cookie Coverage Results" MODIFIED="1464682123663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jimubox" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Main_Function.coverage" NAME="Main_Function Coverage Results" MODIFIED="1471588510501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$buy.coverage" NAME="buy Coverage Results" MODIFIED="1459505372308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$InterFace_List.coverage" NAME="InterFace_List Coverage Results" MODIFIED="1466678395153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$time_interval.coverage" NAME="time_interval Coverage Results" MODIFIED="1480910537598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tools.coverage" NAME="tools Coverage Results" MODIFIED="1458900478998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$interface_unit.coverage" NAME="interface_unit Coverage Results" MODIFIED="1480648637035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$practice_function.coverage" NAME="practice_function Coverage Results" MODIFIED="1474353932137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test_room__1_.coverage" NAME="test_room (1) Coverage Results" MODIFIED="1482490890988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test_.coverage" NAME="Unittest elementA.test_ Coverage Results" MODIFIED="1467012305998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$.coverage" NAME="获取用户文档 Coverage Results" MODIFIED="1458028982817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$check.coverage" NAME="check Coverage Results" MODIFIED="1469436907087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$map_change.coverage" NAME="map_change Coverage Results" MODIFIED="1472030388849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock/stock_appnium_project" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$post.coverage" NAME="post Coverage Results" MODIFIED="1471275396465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Risk_test.coverage" NAME="Risk_test Coverage Results" MODIFIED="1486458063378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_room" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tasks.coverage" NAME="tasks Coverage Results" MODIFIED="1482723007578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sync_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$input.coverage" NAME="input Coverage Results" MODIFIED="1456130682968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Language_change.coverage" NAME="Language_change Coverage Results" MODIFIED="1461035719778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$add_tools.coverage" NAME="add_tools Coverage Results" MODIFIED="1488175212602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$compare_sql.coverage" NAME="compare_sql Coverage Results" MODIFIED="1474458381043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_diff" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$weixin.coverage" NAME="weixin Coverage Results" MODIFIED="1479122410469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeixinBot-master" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$csv_delete.coverage" NAME="csv_delete Coverage Results" MODIFIED="1474948502275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$audit_test_CN.coverage" NAME="audit_test_CN Coverage Results" MODIFIED="1458286398463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$unittest.coverage" NAME="unittest Coverage Results" MODIFIED="1458627950058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tk_test.coverage" NAME="tk_test Coverage Results" MODIFIED="1477372386155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$captch_show.coverage" NAME="captch_show Coverage Results" MODIFIED="1477462484138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/captchaimage" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_unit_test.coverage" NAME="Unittests in unit_test Coverage Results" MODIFIED="1484824431230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1457594463264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Mytest.coverage" NAME="Mytest Coverage Results" MODIFIED="1448919630509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1449086342836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$admin_end.coverage" NAME="admin_end Coverage Results" MODIFIED="1459394820887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zldTest" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test_room__2_.coverage" NAME="test_room (2) Coverage Results" MODIFIED="1482833590040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_TestSequenceFunctions.coverage" NAME="Unittests in TestSequenceFunctions Coverage Results" MODIFIED="1484824597278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$cms_discuz.coverage" NAME="cms_discuz Coverage Results" MODIFIED="1458288044462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test_verify.coverage" NAME="test_verify Coverage Results" MODIFIED="1473403904638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_tools/work" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_test__1_.coverage" NAME="Unittests in test (1) Coverage Results" MODIFIED="1458629383653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$get_style.coverage" NAME="get_style Coverage Results" MODIFIED="1470656848118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$post__1_.coverage" NAME="post (1) Coverage Results" MODIFIED="1459853594008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/old" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$metrics_test.coverage" NAME="metrics_test Coverage Results" MODIFIED="1468993369400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$pycurl_test.coverage" NAME="pycurl_test Coverage Results" MODIFIED="1458797439578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$wx_test.coverage" NAME="wx_test Coverage Results" MODIFIED="1483430471801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exploit" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$open_account_before_SOD.coverage" NAME="open_account_before_SOD Coverage Results" MODIFIED="1472037636417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$combination__1_.coverage" NAME="combination (1) Coverage Results" MODIFIED="1468478875389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/old" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$open_account_after_SOD.coverage" NAME="open_account_after_SOD Coverage Results" MODIFIED="1472038335166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$chapter1_printf.coverage" NAME="chapter1-printf Coverage Results" MODIFIED="1477479255171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/py_hack" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$job_test.coverage" NAME="job_test Coverage Results" MODIFIED="1472039139164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1467014607345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$admin_back.coverage" NAME="admin_back Coverage Results" MODIFIED="1459393516518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zldTest" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$keyboard_record.coverage" NAME="keyboard_record Coverage Results" MODIFIED="1477030810677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_tools/game" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$get_style_xuanji.coverage" NAME="get_style_xuanji Coverage Results" MODIFIED="1474193975942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$csv_add.coverage" NAME="csv_add Coverage Results" MODIFIED="1474943752300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$tools_file.coverage" NAME="tools_file Coverage Results" MODIFIED="1476686910006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$exp_test.coverage" NAME="exp_test Coverage Results" MODIFIED="1483425181249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exploit" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1480473856629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$accpt.coverage" NAME="accpt Coverage Results" MODIFIED="1458033111812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$make_input_xuanji.coverage" NAME="make_input_xuanji Coverage Results" MODIFIED="1483411344601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$file_until.coverage" NAME="file_until Coverage Results" MODIFIED="1476785813515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$os_test.coverage" NAME="os_test Coverage Results" MODIFIED="1477375655914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$kf_logout.coverage" NAME="kf_logout Coverage Results" MODIFIED="1467203967355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock/stock_appnium_project" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MyAutoTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice/async_test.py" />
+        <option value="$PROJECT_DIR$/practice/yield_test.py" />
+        <option value="$PROJECT_DIR$/minsheng/appnium_test/Android_test/function_list.py" />
+        <option value="$PROJECT_DIR$/practice/some_practices/trace_test.py" />
+        <option value="$PROJECT_DIR$/pystudy/py_study/practice/connect_db.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/out_money.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/time_interval.py" />
+        <option value="$PROJECT_DIR$/sql_diff/1.py" />
+        <option value="$PROJECT_DIR$/sql_diff/old/2" />
+        <option value="$PROJECT_DIR$/sql_diff/2.py" />
+        <option value="$PROJECT_DIR$/practice/send_mail.py" />
+        <option value="$PROJECT_DIR$/practice/some_model_test/logging_test.py" />
+        <option value="$PROJECT_DIR$/minsheng/interface_test/interface_unit.py" />
+        <option value="$PROJECT_DIR$/practice/some_practices/pressure_test.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
+        <option value="$PROJECT_DIR$/minsheng/test_room/chinese_re.py" />
+        <option value="$PROJECT_DIR$/minsheng/appnium_test/Android_test/main_test.py" />
+        <option value="$PROJECT_DIR$/job_spider/README.MD" />
+        <option value="$PROJECT_DIR$/job_spider/function_list.py" />
+        <option value="$PROJECT_DIR$/minsheng/interface_test/test_room.py" />
+        <option value="$PROJECT_DIR$/stock_selenium/log.py" />
+        <option value="$PROJECT_DIR$/sync_test/tasks.py" />
+        <option value="$PROJECT_DIR$/job_spider/spider_dom.py" />
+        <option value="$PROJECT_DIR$/job_spider/test_room.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/test_room.py" />
+        <option value="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/score_combine_xuanji.py" />
+        <option value="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/make_input_xuanji.py" />
+        <option value="$PROJECT_DIR$/Exploit/exp_test.py" />
+        <option value="$PROJECT_DIR$/Exploit/wx_test.py" />
+        <option value="$PROJECT_DIR$/Exploit/tqdm_test.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/main_test.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/tools_list.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
+        <option value="$PROJECT_DIR$/minsheng/tools/config.py" />
+        <option value="$PROJECT_DIR$/minsheng/tools/create_OFI_file.py" />
+        <option value="$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py" />
+        <option value="$PROJECT_DIR$/unit_test/need_test_func.py" />
+        <option value="$PROJECT_DIR$/unit_test/unit_test.py" />
+        <option value="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi/test_room.py" />
+        <option value="$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py" />
+        <option value="$PROJECT_DIR$/test_room/Risk_test.py" />
+        <option value="$PROJECT_DIR$/test_room/interface_test_farmework/xml2dict.py" />
+        <option value="$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py" />
+        <option value="$PROJECT_DIR$/practice/some_model_test/apply_test.py" />
+        <option value="$PROJECT_DIR$/practice/file_diff.py" />
+        <option value="$PROJECT_DIR$/practice/file_test/b.txt" />
+        <option value="$PROJECT_DIR$/practice/file_test/a.txt" />
+        <option value="$PROJECT_DIR$/practice/file_test/file_diff.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" />
+        <option value="$PROJECT_DIR$/practice/TEST.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="760" />
+    <option name="y" value="760" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MyAutoTest">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MyAutoTest">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MyAutoTest">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_network">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="MyAutoTest">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="practice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="hex2image">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Default" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="selec&#9;null&#9;null" />
+    <property name="js-jscs-nodeInterpreter" value="F:\Program Files (x86)\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys&#10;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;" module-name="MyAutoTest" sdk-home="F:\Python27.11\python.exe">
+        <option name="myCustomStartScript" value="import sys&#10;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;" />
+        <option name="mySdkHome" value="F:\Python27.11\python.exe" />
+        <option name="myModuleName" value="MyAutoTest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\MyAutoTest\Auto_Pay\xuanji_minsheng" />
+      <recent name="E:\git\MyAutoTest\xuanji\tools\monthly_report" />
+      <recent name="E:\git\MyAutoTest\minsheng" />
+      <recent name="E:\git\MyAutoTest\practice\captchaimage" />
+      <recent name="E:\git\MyAutoTest\source_code_py" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git\MyAutoTest\practice\file_test" />
+      <recent name="E:\git\MyAutoTest\practice" />
+      <recent name="E:\git\MyAutoTest\practice\some_practices" />
+      <recent name="E:\git\MyAutoTest\minsheng\interface_test" />
+      <recent name="E:\git\MyAutoTest\practice\some_model_test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TEST">
+    <configuration default="false" name="add_tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="apply_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/some_model_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/some_model_test/apply_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="file_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/file_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/file_test/file_diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="recommend_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="MyAutoTest" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Python27.11\python.exe" />
+      <option name="WORKING_DIRECTORY" value="F:/Python27.11/sqlmap" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:/Python27.11/sqlmap/sqlmap.py" />
+      <option name="PARAMETERS" value="-u &quot;http://www.ngp.cn/cn/profile.asp?id=13&quot; --batch" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.add_tools" />
+      <item index="2" class="java.lang.String" itemvalue="Python.apply_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.file_diff" />
+      <item index="4" class="java.lang.String" itemvalue="Python.recommend_compare" />
+      <item index="5" class="java.lang.String" itemvalue="Python.TEST" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.TEST" />
+        <item index="1" class="java.lang.String" itemvalue="Python.recommend_compare" />
+        <item index="2" class="java.lang.String" itemvalue="Python.add_tools" />
+        <item index="3" class="java.lang.String" itemvalue="Python.file_diff" />
+        <item index="4" class="java.lang.String" itemvalue="Python.apply_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a88c04a-f8cb-4082-8399-1294f9a07c97" name="Default" comment="" />
+      <changelist id="d2cc1e7d-b499-46fc-b2aa-4f2662fb55ce" name="New changelist" comment="接口返回值测试" />
+      <created>1448384507080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1448384507080</updated>
+    </task>
+    <task id="LOCAL-00001" summary="#增加一个小功能脚本">
+      <created>1448384708455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448384708455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#增加一个小功能脚本">
+      <created>1448385014164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1448385014164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#增加编程练习内容">
+      <created>1448919833488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1448919833488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#httplib练习">
+      <created>1455797455548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1455797455548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="#接口返回值测试">
+      <created>1456136219138</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1456136219138</updated>
+    </task>
+    <task id="LOCAL-00006" summary="#移动位置">
+      <created>1456136344212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1456136344212</updated>
+    </task>
+    <task id="LOCAL-00007" summary="#scoket入门尝试">
+      <created>1456395839646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1456395839646</updated>
+    </task>
+    <task id="LOCAL-00008" summary="#scoket入门尝试">
+      <created>1457679105293</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1457679105293</updated>
+    </task>
+    <task id="LOCAL-00009" summary="#入参组合以及接口遍历">
+      <created>1458021565050</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1458021565050</updated>
+    </task>
+    <task id="LOCAL-00010" summary="#hex2image">
+      <created>1458549016699</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1458549016699</updated>
+    </task>
+    <task id="LOCAL-00011" summary="#hex2image">
+      <created>1458549118863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1458549118863</updated>
+    </task>
+    <task id="LOCAL-00012" summary="#2016-9-1 增加一些东西">
+      <created>1472700673203</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1472700673203</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_TestSequenceFunctions - 2017.01.19 at 19h 16m 37s.xml">
+      <configuration name="Unittests in TestSequenceFunctions" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_unit_test - 2017.01.19 at 19h 13m 51s.xml">
+      <configuration name="Unittests in unit_test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="760" y="760" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13572961" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49590835" sideWeight="0.50763357" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550693" sideWeight="0.49785408" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30736393" sideWeight="0.4923664" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40341514" sideWeight="0.67167383" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25506938" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20877944" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#增加一个小功能脚本" />
+    <MESSAGE value="#增加编程练习内容" />
+    <MESSAGE value="#httplib练习" />
+    <MESSAGE value="#接口返回值测试" />
+    <MESSAGE value="#移动位置" />
+    <MESSAGE value="#scoket入门尝试" />
+    <MESSAGE value="#入参组合以及接口遍历" />
+    <MESSAGE value="#hex2image" />
+    <MESSAGE value="#2016-9-1 增加一些东西" />
+    <option name="LAST_COMMIT_MESSAGE" value="#2016-9-1 增加一些东西" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/.PyCharm40/system/python_stubs/1713590963/miniCurl.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Auto_Pay/old/function.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/WeixinBot-master/weixin.py</url>
+          <line>1152</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/minsheng/tools/OFI_0A_620_20170223.TXT" />
+    <entry file="file://$PROJECT_DIR$/minsheng/test_room/chinese_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minsheng/tools/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minsheng/tools/create_OFI_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/need_test_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/unittest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="47" column="68" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="235" column="18" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/unittest/test/test_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="95" column="47" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/The_Frist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/test_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji_jinshi/test_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="141" column="69" selection-start-line="141" selection-start-column="69" selection-end-line="141" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/zldTest/admin_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/Risk_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/pycurl_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/TestFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/xml2dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_jiexi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/excel/read_write_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/rule_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/rule_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1344">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/tools_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/file_until.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/history_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/some_model_test/logging_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/some_model_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-239983075/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="613" column="8" selection-start-line="613" selection-start-column="8" selection-end-line="613" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/some_model_test/apply_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/file_test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/file_test/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/file_test/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/file_test/diff.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/file_test/file_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1764">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_room/curl_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-239983075/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

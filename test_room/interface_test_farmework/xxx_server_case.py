@@ -10,9 +10,9 @@
 from test_room.interface_test_farmework.TestFrame import *
 from common_lib import *
 
-httpString='http://xxx.com/xxx_product/test/'
-expectXmldir=os.getcwd()+'/TestDir/expect/'
-realXmldir=os.getcwd()+'/TestDir/real/'
+httpString = 'http://xxx.com/xxx_product/test/'
+expectXmldir = os.getcwd()+'/TestDir/expect/'
+realXmldir = os.getcwd()+'/TestDir/real/'
 
 def run(interface_name, suiteid):
     print '【'+interface_name+'】' + ' Test Begin,please waiting...'
