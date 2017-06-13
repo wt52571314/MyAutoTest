@@ -5,100 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a88c04a-f8cb-4082-8399-1294f9a07c97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/captchaimage/captchaImage1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/check_xuanji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/get_style_xuanji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/make_input_xuanji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/score_combine_xuanji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/test_room.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/exp_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/tqdm_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exploit/wx_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WeixinBot-master/weixin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/function_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/spider_dom.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/job_spider/test_room.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/appnium_test/Android_test/function_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/appnium_test/Android_test/main_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/base_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/config_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/interface_unit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/main_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/interface_test/test_room.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/test_room/chinese_re.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/tools/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/minsheng/tools/create_OFI_file.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/TEST.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/captchaimage/captch_show.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/a.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/b.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/file_test/file_diff.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/py_hack/chapter1-printf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/python_network/client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/python_network/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/send_mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/apply_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/cmd_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/logging_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/os_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_model_test/tk_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/async_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/pressure_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/trace_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/some_practices/yield_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security_tools/game/keyboard_record.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider_test/cp1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/compare_sql.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth_02.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_03.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth_03.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2_03.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sync_test/tasks.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit_test/need_test_func.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unit_test/unit_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/excel/csv_add.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/excel/csv_delete.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/historical_retrospective/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/main_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/test_room.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/tools_list.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/accpt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice/test.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/20170313190159_775.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170302135717_154.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170302135912_693.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170302135926_857.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170302135943_174.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170302140149_421.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/blob_20170315104905_979.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/blob_20170302131221_948.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/blob_20170302134103_384.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170221174720_872.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170221174853_604.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170221185732_782.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170222103505_551.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170222162309_810.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170222162328_908.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170301153945_370.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170301170619_507.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/uploads/images/图片_20170301191407_271.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170309134841_932.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170309134847_569.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170310111715_333.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170310111727_840.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170310140603_756.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170310140619_146.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170313134910_168.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170324142938_834.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170327191259_834.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170328103445_370.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170328103454_917.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170328113911_429.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/图片_20170328113930_751.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/109/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/109/图片_20170310111727_840.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice/request_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/adapter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/builder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/external.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/facade.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/flyweight.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/mymath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/prototype.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scientific_computing/python_factory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taAction/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taAction/style_config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taAction/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/109/redeem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/109/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/anbang/interface_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/new_daliy_model/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/new_daliy_model/user_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/create_ta.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/integer.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/note.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/note_diff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/result_diff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xuanji/tools/ta_action/ta_file.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/pystudy/py_study/pyGame/image/pyGame.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/compare_sql.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/old/sandbox_merak.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/old/sandbox_portfolio_v2.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_merak.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_portfolio_v2_03.sql" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystudy" afterPath="$PROJECT_DIR$/pystudy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/old/test.py" afterPath="$PROJECT_DIR$/Auto_Pay/old/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/check_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/check_xuanji.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/make_input_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/make_input_xuanji.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/score_combine_xuanji.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/score_combine_xuanji.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py" afterPath="$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py" afterPath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/python_network/part1/test_hostname.py" afterPath="$PROJECT_DIR$/practice/python_network/part1/test_hostname.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/InterFace_List.py" afterPath="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/InterFace_List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice/TEST.py" afterPath="$PROJECT_DIR$/practice/TEST.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystudy/py_study/pyGame/pyGame.py" afterPath="$PROJECT_DIR$/pystudy/py_study/pyGame/pyGame.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock_selenium/log.py" afterPath="$PROJECT_DIR$/stock_selenium/log.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py" afterPath="$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/excel/file_write.py" afterPath="$PROJECT_DIR$/xuanji/tools/excel/file_write.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/excel/read_write_function.py" afterPath="$PROJECT_DIR$/xuanji/tools/excel/read_write_function.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/practice/Mytest.py" afterPath="$PROJECT_DIR$/practice/some_practices/Mytest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/practice/pyChanllage.py" afterPath="$PROJECT_DIR$/practice/some_practices/pyChanllage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth.sql" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql_diff/old/sandbox_portfolio_v2_03.sql" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_portfolio_v2_03.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stock_selenium/MyTest.py" afterPath="$PROJECT_DIR$/stock_selenium/MyTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unit_test/test_1.py" afterPath="$PROJECT_DIR$/unit_test/test_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xuanji/tools/109/test.py" afterPath="$PROJECT_DIR$/xuanji/tools/109/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" afterPath="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" afterPath="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" afterPath="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" afterPath="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_merak_03.sql" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_03.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sql_diff/sandbox_merak_auth_03.sql" afterPath="$PROJECT_DIR$/sql_diff/old/sandbox_merak_auth_03.sql" />
     </list>
     <list id="d2cc1e7d-b499-46fc-b2aa-4f2662fb55ce" name="New changelist" comment="接口返回值测试" />
     <ignored path="MyAutoTest.iws" />
@@ -113,19 +106,22 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/MyAutoTest$test_room.coverage" NAME="test_room Coverage Results" MODIFIED="1485056280093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$prototype.coverage" NAME="prototype Coverage Results" MODIFIED="1492422295174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$MD5.coverage" NAME="MD5 Coverage Results" MODIFIED="1474285929625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_tools/game" />
     <SUITE FILE_PATH="coverage/MyAutoTest$oo.coverage" NAME="oo Coverage Results" MODIFIED="1458027743252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$pressure_test.coverage" NAME="pressure_test Coverage Results" MODIFIED="1480905755438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_practices" />
     <SUITE FILE_PATH="coverage/MyAutoTest$create_OFI_file.coverage" NAME="create_OFI_file Coverage Results" MODIFIED="1484217153417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/tools" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$interface_test.coverage" NAME="interface_test Coverage Results" MODIFIED="1466760290296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$interface_test.coverage" NAME="interface_test Coverage Results" MODIFIED="1494556476589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/anbang" />
     <SUITE FILE_PATH="coverage/MyAutoTest$file_diff.coverage" NAME="file_diff Coverage Results" MODIFIED="1486538390367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/file_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$time_interval__1_.coverage" NAME="time_interval (1) Coverage Results" MODIFIED="1479894359995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$ta_file.coverage" NAME="ta_file Coverage Results" MODIFIED="1494301478138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/ta_action" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___3_.coverage" NAME="Unittest elementA.test_ (3) Coverage Results" MODIFIED="1467018237324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$request_test.coverage" NAME="request_test Coverage Results" MODIFIED="1496995844763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$main_test.coverage" NAME="main_test Coverage Results" MODIFIED="1483944046036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
     <SUITE FILE_PATH="coverage/MyAutoTest$socre_combine.coverage" NAME="socre_combine Coverage Results" MODIFIED="1469436902777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_test.coverage" NAME="Unittests in test Coverage Results" MODIFIED="1458628519993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$sniff_test.coverage" NAME="sniff_test Coverage Results" MODIFIED="1458286778746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1489115587484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1496995838058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1476785682106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Made_SQL.coverage" NAME="Made_SQL Coverage Results" MODIFIED="1463130884807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
     <SUITE FILE_PATH="coverage/MyAutoTest$curl_test.coverage" NAME="curl_test Coverage Results" MODIFIED="1458787464811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
@@ -135,10 +131,12 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$charunicodeencode.coverage" NAME="charunicodeencode Coverage Results" MODIFIED="1470983933132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlmap/tamper" />
     <SUITE FILE_PATH="coverage/MyAutoTest$createDist2.coverage" NAME="createDist2 Coverage Results" MODIFIED="1474446421005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02/EXTRAS" />
     <SUITE FILE_PATH="coverage/MyAutoTest$trace_test.coverage" NAME="trace_test Coverage Results" MODIFIED="1479882272872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_practices" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$adapter.coverage" NAME="adapter Coverage Results" MODIFIED="1493017621168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$check_xuanji.coverage" NAME="check_xuanji Coverage Results" MODIFIED="1474194592735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
     <SUITE FILE_PATH="coverage/MyAutoTest$pyChanllage.coverage" NAME="pyChanllage Coverage Results" MODIFIED="1459488083077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1474444602197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$sql_function.coverage" NAME="sql_function Coverage Results" MODIFIED="1483954371169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$sql_function.coverage" NAME="sql_function Coverage Results" MODIFIED="1492670829276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_test_1.coverage" NAME="Unittests in test_1 Coverage Results" MODIFIED="1496813534415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$rule_config.coverage" NAME="rule_config Coverage Results" MODIFIED="1476681202752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
     <SUITE FILE_PATH="coverage/MyAutoTest$mulite_buy.coverage" NAME="mulite_buy Coverage Results" MODIFIED="1470826487118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___2_.coverage" NAME="Unittest elementA.test_ (2) Coverage Results" MODIFIED="1467015001109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
@@ -146,7 +144,8 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_login_test.coverage" NAME="Unittests in login_test Coverage Results" MODIFIED="1467012176668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
     <SUITE FILE_PATH="coverage/MyAutoTest$score_combine_xuanji.coverage" NAME="score_combine_xuanji Coverage Results" MODIFIED="1483411258448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng" />
     <SUITE FILE_PATH="coverage/MyAutoTest$function_list.coverage" NAME="function_list Coverage Results" MODIFIED="1479809689303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/appnium_test/Android_test" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$test.coverage" NAME="test Coverage Results" MODIFIED="1476433517407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$facade.coverage" NAME="facade Coverage Results" MODIFIED="1493280855440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$test.coverage" NAME="test Coverage Results" MODIFIED="1495697933071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/109" />
     <SUITE FILE_PATH="coverage/MyAutoTest$server.coverage" NAME="server Coverage Results" MODIFIED="1477551742623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$experiment.coverage" NAME="experiment Coverage Results" MODIFIED="1458635573806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$connect_db.coverage" NAME="connect_db Coverage Results" MODIFIED="1479890366225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/practice" />
@@ -154,15 +153,17 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$hack_game_tools_2016_6_30.coverage" NAME="hack_game_tools_2016_6_30 Coverage Results" MODIFIED="1467291357783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$finger_password.coverage" NAME="finger_password Coverage Results" MODIFIED="1456455620133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittest_elementA_test___1_.coverage" NAME="Unittest elementA.test_ (1) Coverage Results" MODIFIED="1467018736955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium_stock" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$recommend_compare.coverage" NAME="recommend_compare Coverage Results" MODIFIED="1488271998764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$recommend_compare.coverage" NAME="recommend_compare Coverage Results" MODIFIED="1494991458888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
     <SUITE FILE_PATH="coverage/MyAutoTest$this_is_a_test.coverage" NAME="this_is_a_test Coverage Results" MODIFIED="1484290568793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/test_room" />
     <SUITE FILE_PATH="coverage/MyAutoTest$function.coverage" NAME="function Coverage Results" MODIFIED="1456195300989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$pyGame.coverage" NAME="pyGame Coverage Results" MODIFIED="1449256770590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/pyGame" />
     <SUITE FILE_PATH="coverage/MyAutoTest$combination.coverage" NAME="combination Coverage Results" MODIFIED="1468401667471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$test_hostname.coverage" NAME="test_hostname Coverage Results" MODIFIED="1477476948235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/python_network/part1" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$mymath.coverage" NAME="mymath Coverage Results" MODIFIED="1493099684030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$tools_list.coverage" NAME="tools_list Coverage Results" MODIFIED="1482834614108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Main_Function__1_.coverage" NAME="Main_Function (1) Coverage Results" MODIFIED="1464081837444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/old" />
     <SUITE FILE_PATH="coverage/MyAutoTest$cmd_test.coverage" NAME="cmd_test Coverage Results" MODIFIED="1477553160962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$flyweight.coverage" NAME="flyweight Coverage Results" MODIFIED="1493876506496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$excel_test.coverage" NAME="excel_test Coverage Results" MODIFIED="1474885282846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Cookie.coverage" NAME="Cookie Coverage Results" MODIFIED="1464677824889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jimubox" />
     <SUITE FILE_PATH="coverage/MyAutoTest$apply_test.coverage" NAME="apply_test Coverage Results" MODIFIED="1486535647334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/some_model_test" />
@@ -174,8 +175,9 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$get_cookie.coverage" NAME="get_cookie Coverage Results" MODIFIED="1464682123663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jimubox" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Main_Function.coverage" NAME="Main_Function Coverage Results" MODIFIED="1471588510501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
     <SUITE FILE_PATH="coverage/MyAutoTest$buy.coverage" NAME="buy Coverage Results" MODIFIED="1459505372308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$InterFace_List.coverage" NAME="InterFace_List Coverage Results" MODIFIED="1466678395153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$time_interval.coverage" NAME="time_interval Coverage Results" MODIFIED="1480910537598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$config.coverage" NAME="config Coverage Results" MODIFIED="1493185320560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/ta_action" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$InterFace_List.coverage" NAME="InterFace_List Coverage Results" MODIFIED="1496995643951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$time_interval.coverage" NAME="time_interval Coverage Results" MODIFIED="1495441848167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
     <SUITE FILE_PATH="coverage/MyAutoTest$tools.coverage" NAME="tools Coverage Results" MODIFIED="1458900478998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$interface_unit.coverage" NAME="interface_unit Coverage Results" MODIFIED="1480648637035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minsheng/interface_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$practice_function.coverage" NAME="practice_function Coverage Results" MODIFIED="1474353932137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pystudy/py_study/practice" />
@@ -189,27 +191,31 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$tasks.coverage" NAME="tasks Coverage Results" MODIFIED="1482723007578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sync_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$input.coverage" NAME="input Coverage Results" MODIFIED="1456130682968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Language_change.coverage" NAME="Language_change Coverage Results" MODIFIED="1461035719778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$add_tools.coverage" NAME="add_tools Coverage Results" MODIFIED="1488175212602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$add_tools.coverage" NAME="add_tools Coverage Results" MODIFIED="1494991395304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/daliy_model" />
     <SUITE FILE_PATH="coverage/MyAutoTest$compare_sql.coverage" NAME="compare_sql Coverage Results" MODIFIED="1474458381043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_diff" />
     <SUITE FILE_PATH="coverage/MyAutoTest$weixin.coverage" NAME="weixin Coverage Results" MODIFIED="1479122410469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WeixinBot-master" />
     <SUITE FILE_PATH="coverage/MyAutoTest$csv_delete.coverage" NAME="csv_delete Coverage Results" MODIFIED="1474948502275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
     <SUITE FILE_PATH="coverage/MyAutoTest$audit_test_CN.coverage" NAME="audit_test_CN Coverage Results" MODIFIED="1458286398463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
     <SUITE FILE_PATH="coverage/MyAutoTest$unittest.coverage" NAME="unittest Coverage Results" MODIFIED="1458627950058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$tk_test.coverage" NAME="tk_test Coverage Results" MODIFIED="1477372386155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$user_info.coverage" NAME="user_info Coverage Results" MODIFIED="1492584588304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/new_daliy_model" />
     <SUITE FILE_PATH="coverage/MyAutoTest$captch_show.coverage" NAME="captch_show Coverage Results" MODIFIED="1477462484138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice/captchaimage" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$builder.coverage" NAME="builder Coverage Results" MODIFIED="1492413201378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_unit_test.coverage" NAME="Unittests in unit_test Coverage Results" MODIFIED="1484824431230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1457594463264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Mytest.coverage" NAME="Mytest Coverage Results" MODIFIED="1448919630509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
-    <SUITE FILE_PATH="coverage/MyAutoTest$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1449086342836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock" />
     <SUITE FILE_PATH="coverage/MyAutoTest$admin_end.coverage" NAME="admin_end Coverage Results" MODIFIED="1459394820887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zldTest" />
     <SUITE FILE_PATH="coverage/MyAutoTest$test_room__2_.coverage" NAME="test_room (2) Coverage Results" MODIFIED="1482833590040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/monthly_report" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_TestSequenceFunctions.coverage" NAME="Unittests in TestSequenceFunctions Coverage Results" MODIFIED="1484824597278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$MyTest.coverage" NAME="MyTest Coverage Results" MODIFIED="1496813661893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stock_selenium" />
     <SUITE FILE_PATH="coverage/MyAutoTest$cms_discuz.coverage" NAME="cms_discuz Coverage Results" MODIFIED="1458288044462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bugscan" />
     <SUITE FILE_PATH="coverage/MyAutoTest$test_verify.coverage" NAME="test_verify Coverage Results" MODIFIED="1473403904638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_tools/work" />
     <SUITE FILE_PATH="coverage/MyAutoTest$Unittests_in_test__1_.coverage" NAME="Unittests in test (1) Coverage Results" MODIFIED="1458629383653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$get_style.coverage" NAME="get_style Coverage Results" MODIFIED="1470656848118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay" />
     <SUITE FILE_PATH="coverage/MyAutoTest$post__1_.coverage" NAME="post (1) Coverage Results" MODIFIED="1459853594008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/old" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$python_drawing.coverage" NAME="python_drawing Coverage Results" MODIFIED="1491361406851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$metrics_test.coverage" NAME="metrics_test Coverage Results" MODIFIED="1468993369400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$redeem.coverage" NAME="redeem Coverage Results" MODIFIED="1496386455651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/109" />
     <SUITE FILE_PATH="coverage/MyAutoTest$pycurl_test.coverage" NAME="pycurl_test Coverage Results" MODIFIED="1458797439578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test" />
     <SUITE FILE_PATH="coverage/MyAutoTest$wx_test.coverage" NAME="wx_test Coverage Results" MODIFIED="1483430471801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exploit" />
     <SUITE FILE_PATH="coverage/MyAutoTest$open_account_before_SOD.coverage" NAME="open_account_before_SOD Coverage Results" MODIFIED="1472037636417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Stock_Interface_test/job_runing" />
@@ -223,8 +229,10 @@
     <SUITE FILE_PATH="coverage/MyAutoTest$get_style_xuanji.coverage" NAME="get_style_xuanji Coverage Results" MODIFIED="1474193975942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi" />
     <SUITE FILE_PATH="coverage/MyAutoTest$csv_add.coverage" NAME="csv_add Coverage Results" MODIFIED="1474943752300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel" />
     <SUITE FILE_PATH="coverage/MyAutoTest$tools_file.coverage" NAME="tools_file Coverage Results" MODIFIED="1476686910006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$create_ta.coverage" NAME="create_ta Coverage Results" MODIFIED="1497264375092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/ta_action" />
     <SUITE FILE_PATH="coverage/MyAutoTest$exp_test.coverage" NAME="exp_test Coverage Results" MODIFIED="1483425181249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exploit" />
     <SUITE FILE_PATH="coverage/MyAutoTest$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1480473856629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
+    <SUITE FILE_PATH="coverage/MyAutoTest$builder__1_.coverage" NAME="builder (1) Coverage Results" MODIFIED="1492414000662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scientific_computing" />
     <SUITE FILE_PATH="coverage/MyAutoTest$accpt.coverage" NAME="accpt Coverage Results" MODIFIED="1458033111812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practice" />
     <SUITE FILE_PATH="coverage/MyAutoTest$make_input_xuanji.coverage" NAME="make_input_xuanji Coverage Results" MODIFIED="1483411344601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng" />
     <SUITE FILE_PATH="coverage/MyAutoTest$file_until.coverage" NAME="file_until Coverage Results" MODIFIED="1476785813515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xuanji/tools/historical_retrospective" />
@@ -247,7 +255,28 @@
     <favorites_list name="MyAutoTest" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taAction/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taAction/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -266,43 +295,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/practice/async_test.py" />
-        <option value="$PROJECT_DIR$/practice/yield_test.py" />
-        <option value="$PROJECT_DIR$/minsheng/appnium_test/Android_test/function_list.py" />
-        <option value="$PROJECT_DIR$/practice/some_practices/trace_test.py" />
-        <option value="$PROJECT_DIR$/pystudy/py_study/practice/connect_db.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/out_money.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/time_interval.py" />
-        <option value="$PROJECT_DIR$/sql_diff/1.py" />
-        <option value="$PROJECT_DIR$/sql_diff/old/2" />
-        <option value="$PROJECT_DIR$/sql_diff/2.py" />
-        <option value="$PROJECT_DIR$/practice/send_mail.py" />
-        <option value="$PROJECT_DIR$/practice/some_model_test/logging_test.py" />
-        <option value="$PROJECT_DIR$/minsheng/interface_test/interface_unit.py" />
-        <option value="$PROJECT_DIR$/practice/some_practices/pressure_test.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
-        <option value="$PROJECT_DIR$/minsheng/test_room/chinese_re.py" />
-        <option value="$PROJECT_DIR$/minsheng/appnium_test/Android_test/main_test.py" />
-        <option value="$PROJECT_DIR$/job_spider/README.MD" />
-        <option value="$PROJECT_DIR$/job_spider/function_list.py" />
-        <option value="$PROJECT_DIR$/minsheng/interface_test/test_room.py" />
-        <option value="$PROJECT_DIR$/stock_selenium/log.py" />
-        <option value="$PROJECT_DIR$/sync_test/tasks.py" />
-        <option value="$PROJECT_DIR$/job_spider/spider_dom.py" />
-        <option value="$PROJECT_DIR$/job_spider/test_room.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/test_room.py" />
-        <option value="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/score_combine_xuanji.py" />
-        <option value="$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/make_input_xuanji.py" />
-        <option value="$PROJECT_DIR$/Exploit/exp_test.py" />
-        <option value="$PROJECT_DIR$/Exploit/wx_test.py" />
-        <option value="$PROJECT_DIR$/Exploit/tqdm_test.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/main_test.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/tools_list.py" />
-        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
-        <option value="$PROJECT_DIR$/minsheng/tools/config.py" />
-        <option value="$PROJECT_DIR$/minsheng/tools/create_OFI_file.py" />
-        <option value="$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py" />
-        <option value="$PROJECT_DIR$/unit_test/need_test_func.py" />
         <option value="$PROJECT_DIR$/unit_test/unit_test.py" />
         <option value="$PROJECT_DIR$/Auto_Pay/xuanji_jinshi/test_room.py" />
         <option value="$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py" />
@@ -314,9 +306,46 @@
         <option value="$PROJECT_DIR$/practice/file_test/b.txt" />
         <option value="$PROJECT_DIR$/practice/file_test/a.txt" />
         <option value="$PROJECT_DIR$/practice/file_test/file_diff.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/python_drawing.py" />
+        <option value="$PROJECT_DIR$/security_tools/game/keyboard_record.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/109/test" />
+        <option value="$PROJECT_DIR$/xuanji/tools/109/redeem.py" />
+        <option value="$PROJECT_DIR$/unit_test/builder.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/builder.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/prototype.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/02.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/01.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/new_daliy_model/user_info.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/external.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/adapter.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/mymath.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/new_daliy_model/test.py" />
+        <option value="$PROJECT_DIR$/xuanji/note_diff" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_file.py" />
+        <option value="$PROJECT_DIR$/xuanji/integer.txt" />
+        <option value="$PROJECT_DIR$/xuanji/note.txt" />
+        <option value="$PROJECT_DIR$/xuanji/create_ta.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_action/result_diff" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_action/note_diff" />
+        <option value="$PROJECT_DIR$/scientific_computing/facade.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py" />
+        <option value="$PROJECT_DIR$/scientific_computing/README.md" />
+        <option value="$PROJECT_DIR$/scientific_computing/flyweight.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_action/result.txt" />
+        <option value="$PROJECT_DIR$/xuanji/tools/anbang/interface_test.py" />
         <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" />
         <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/109/test.py" />
+        <option value="$PROJECT_DIR$/unit_test/test_1.py" />
+        <option value="$PROJECT_DIR$/stock_selenium/MyTest.py" />
+        <option value="$PROJECT_DIR$/practice/request_test.py" />
+        <option value="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/InterFace_List.py" />
         <option value="$PROJECT_DIR$/practice/TEST.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_action/create_ta.py" />
+        <option value="$PROJECT_DIR$/xuanji/tools/ta_action/config.py" />
+        <option value="$PROJECT_DIR$/taAction/config.py" />
+        <option value="$PROJECT_DIR$/taAction/test.py" />
       </list>
     </option>
   </component>
@@ -338,6 +367,12 @@
         <expanded-state>
           <State>
             <id />
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Python</id>
           </State>
         </expanded-state>
         <selected-state>
@@ -373,6 +408,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyAutoTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
         <subPane subId="Project Files">
@@ -439,32 +495,11 @@
         </subPane>
         <subPane subId="Default" />
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAutoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAutoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAutoTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pintec_SRC" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
@@ -472,7 +507,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="selec&#9;null&#9;null" />
     <property name="js-jscs-nodeInterpreter" value="F:\Program Files (x86)\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
@@ -486,90 +521,54 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\git\MyAutoTest\Auto_Pay\xuanji_minsheng" />
-      <recent name="E:\git\MyAutoTest\xuanji\tools\monthly_report" />
-      <recent name="E:\git\MyAutoTest\minsheng" />
-      <recent name="E:\git\MyAutoTest\practice\captchaimage" />
-      <recent name="E:\git\MyAutoTest\source_code_py" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\git\MyAutoTest\practice\file_test" />
-      <recent name="E:\git\MyAutoTest\practice" />
-      <recent name="E:\git\MyAutoTest\practice\some_practices" />
-      <recent name="E:\git\MyAutoTest\minsheng\interface_test" />
-      <recent name="E:\git\MyAutoTest\practice\some_model_test" />
+      <recent name="E:\git\MyAutoTest\xuanji\tools\109" />
+      <recent name="E:\git\MyAutoTest\xuanji\tools\ta_action" />
+      <recent name="E:\git\MyAutoTest\xuanji\ta_action" />
+      <recent name="E:\git\MyAutoTest\xuanji" />
+      <recent name="E:\git\MyAutoTest\sql_diff\old" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\MyAutoTest\taAction" />
+      <recent name="E:\git\MyAutoTest\scientific_computing" />
+      <recent name="E:\git\MyAutoTest\sql_diff" />
+      <recent name="E:\git\MyAutoTest\unit_test" />
+      <recent name="E:\git\MyAutoTest\xuanji\tools\109" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TEST">
-    <configuration default="false" name="add_tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.create_ta">
+    <configuration default="false" name="MyTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xuanji/tools/daliy_model" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stock_selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyAutoTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_selenium/MyTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="apply_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="request_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/some_model_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MyAutoTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/some_model_test/apply_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="file_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/file_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MyAutoTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/file_test/file_diff.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="recommend_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xuanji/tools/daliy_model" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MyAutoTest" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/request_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -588,6 +587,42 @@
       <module name="MyAutoTest" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="InterFace_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/InterFace_List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="create_ta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xuanji/tools/ta_action" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyAutoTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuanji/tools/ta_action/create_ta.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -821,19 +856,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Python.add_tools" />
-      <item index="2" class="java.lang.String" itemvalue="Python.apply_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.file_diff" />
-      <item index="4" class="java.lang.String" itemvalue="Python.recommend_compare" />
-      <item index="5" class="java.lang.String" itemvalue="Python.TEST" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MyTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.request_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TEST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.InterFace_List" />
+      <item index="5" class="java.lang.String" itemvalue="Python.create_ta" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.TEST" />
-        <item index="1" class="java.lang.String" itemvalue="Python.recommend_compare" />
-        <item index="2" class="java.lang.String" itemvalue="Python.add_tools" />
-        <item index="3" class="java.lang.String" itemvalue="Python.file_diff" />
-        <item index="4" class="java.lang.String" itemvalue="Python.apply_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.create_ta" />
+        <item index="1" class="java.lang.String" itemvalue="Python.request_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TEST" />
+        <item index="3" class="java.lang.String" itemvalue="Python.InterFace_List" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -943,6 +978,15 @@
     <history-entry file="Unittests_in_TestSequenceFunctions - 2017.01.19 at 19h 16m 37s.xml">
       <configuration name="Unittests in TestSequenceFunctions" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_1 - 2017.06.02 at 14h 55m 07s.xml">
+      <configuration name="Unittests in test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_1 - 2017.06.07 at 13h 31m 52s.xml">
+      <configuration name="Unittests in test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_1 - 2017.06.07 at 13h 32m 14s.xml">
+      <configuration name="Unittests in test_1" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_unit_test - 2017.01.19 at 19h 13m 51s.xml">
       <configuration name="Unittests in unit_test" configurationId="tests" />
     </history-entry>
@@ -960,15 +1004,16 @@
     <frame x="760" y="760" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13572961" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2054721" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49590835" sideWeight="0.50763357" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2027897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32550693" sideWeight="0.49785408" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30736393" sideWeight="0.4923664" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40341514" sideWeight="0.67167383" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25506938" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28922093" sideWeight="0.67167383" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946351" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25506938" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20877944" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -979,7 +1024,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1030,182 +1074,201 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="56" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/minsheng/tools/OFI_0A_620_20170223.TXT" />
-    <entry file="file://$PROJECT_DIR$/minsheng/test_room/chinese_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/minsheng/tools/config.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/monthly_report/test_room.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/minsheng/test_room/this_is_a_test.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_jiexi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/minsheng/tools/create_OFI_file.py">
+    <entry file="file://$PROJECT_DIR$/scientific_computing/adapter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test/test_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test/need_test_func.py">
+    <entry file="file://$PROJECT_DIR$/scientific_computing/builder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test/unit_test.py">
+    <entry file="file://F:/Python27.11/Lib/functools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="454">
+          <caret line="97" column="27" selection-start-line="97" selection-start-column="27" selection-end-line="97" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Python27.11/Lib/unittest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="47" column="68" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Python27.11/Lib/unittest/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="235" column="18" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Python27.11/Lib/unittest/test/test_program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="95" column="47" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test/The_Frist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji_minsheng/test_room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji_jinshi/test_room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exploit/Stagefright_CVE-2015-1538-1_Exploit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="141" column="69" selection-start-line="141" selection-start-column="69" selection-end-line="141" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/lib/zldTest/admin_end.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/Risk_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/pycurl_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/TestFrame.py">
+    <entry file="file://$PROJECT_DIR$/scientific_computing/02.py" />
+    <entry file="file://$PROJECT_DIR$/scientific_computing/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/xxx_server_case.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/new_daliy_model/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="231">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/interface_test_farmework/xml2dict.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/new_daliy_model/user_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_jiexi.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/integer.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="126">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/excel/read_write_function.py">
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/result_diff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/note_diff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="126" column="22" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scientific_computing/mymath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/monthly_report/sql_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-239983075/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="2499" column="15" selection-start-line="2499" selection-start-column="15" selection-end-line="2499" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scientific_computing/external.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scientific_computing/facade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scientific_computing/README.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="252">
+            <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scientific_computing/flyweight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/ta_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="133" column="0" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/Main_Function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="338" column="0" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/site-packages/requests-2.9.1-py2.7.egg/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python27.11/Lib/site-packages/requests-2.9.1-py2.7.egg/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-549">
+          <caret line="364" column="26" selection-start-line="364" selection-start-column="19" selection-end-line="364" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/xuanji_WEB/selenium_xuanji/test_room.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1214,163 +1277,166 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/time_interval.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-483">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/rule_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/rule_check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1344">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/tools_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/file_until.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/historical_retrospective/history_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="60" column="39" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Python27.11/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/some_model_test/logging_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/some_model_test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-239983075/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="613" column="8" selection-start-line="613" selection-start-column="8" selection-end-line="613" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/some_model_test/apply_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/file_test/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/file_test/b.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/file_test/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/file_test/diff.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/file_test/file_diff.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="966">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/add_tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="231">
+          <caret line="12" column="188" selection-start-line="12" selection-start-column="188" selection-end-line="12" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/109/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/anbang/interface_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/109/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/109/redeem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/daliy_model/recommend_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pystudy/py_study/pyGame/pyGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="48" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_selenium/MyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="72" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_room/test.py">
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/get_style_xuanji.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1764">
+        <state relative-caret-position="401">
+          <caret line="84" column="53" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Pay/xuanji/test_room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="961" column="33" selection-start-line="961" selection-start-column="33" selection-end-line="961" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/job_runing/open_account_after_SOD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/interface_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stock_Interface_test/Stock_Interface_test_retry/InterFace_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/request_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/create_ta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xuanji/tools/ta_action/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="118" column="10" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taAction/style_config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taAction/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1379,23 +1445,15 @@
     <entry file="file://$PROJECT_DIR$/test_room/curl_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="81" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-239983075/time.py">
+    <entry file="file://$PROJECT_DIR$/taAction/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/TEST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>

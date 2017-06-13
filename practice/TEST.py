@@ -1,12 +1,46 @@
-# -*- coding: utf-8 -*-
-# import urllib
-# web_url = urllib.urlopen('http://tieba.baidu.com/p/4759040895').read()
-# print web_url
+# coding=utf-8
+a = {
+    1: '工商银行',
+    2: 'ũҵ����',
+    3: '�й�����',
+    4: '��������',
+    5: '��ͨ����',
+    6: '��������',
+    7: '�ʴ�����',
+    8: '��ҵ����',
+    9: '��������',
+    10: '�������',
+    11: '��������',
+    12: '�ַ�����',
+    13: 'ƽ������',
+    14: '��������',
+    15: '�㷢����',
+    16: '�Ϻ�����',
+    17: '��������'
+}
 
-import time
-
-# print time.clock()
-a = time.localtime()
-
+b = {
+    1: 6001,
+    2: 6002,
+    3: 6003,
+    4: 6004,
+    5: 6005,
+    6: 6006,
+    7: 6007,
+    8: 6008,
+    9: 6009,
+    10: 6010,
+    11: 6011,
+    12: 6012,
+    13: 6013,
+    14: 6014,
+    15: 6015,
+    16: 6016,
+    17: 6017
+}
+dir_use = {}
+for key in range(1, 18):
+    dir_use[b[key]] = a[key]
 print a
-print 'CVE-' + str(a.tm_year) + str(a.tm_mon) + str(a.tm_mday) + '-' + str(a.tm_hour) + str(a.tm_min) + str(a.tm_sec)
+print str(dir_use)
+

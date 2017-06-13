@@ -39,8 +39,8 @@ def get_day_diff(data_use, now):
     return (now-data_use).days
 
 if __name__ == '__main__':
-    date_use = datetime.datetime(year=2016, month=11, day=18)
-    now = datetime.datetime(year=2016, month=11, day=30)
+    date_use = datetime.datetime(year=2017, month=05, day=21)
+    now = datetime.datetime(year=2017, month=04, day=21)
     print get_day_diff(date_use, now)
     # print get_days_before_today(20)
     # date_use = datetime.datetime(year=2015, month=10, day=9)

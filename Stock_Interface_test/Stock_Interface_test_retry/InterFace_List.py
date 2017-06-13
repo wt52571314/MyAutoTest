@@ -107,3 +107,5 @@ def split_line():
     :return: NULL
     """
     print '*'*50
+
+print List_interface_get

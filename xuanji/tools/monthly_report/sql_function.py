@@ -284,13 +284,15 @@ def get_result(connect_use, dir_use):
     return dir_temp
 
 if __name__ == '__main__':
-    conn = get_conn()
-    get_monthly_in_dict(conn, '1273083', '2016-06')
-
-    # print '九月底投资总市值：', get_earnings_month(conn, '1270805', 2016, 9)
-    # print '十月底投资总市值：', get_earnings_month(conn, '1270805', 2016, 10)
-    # a = get_product_amount(conn, '1270805', '2016-09-30 23:59:59')
-    # b = get_product_price(conn, a, '2016-09-30 00:00:00')
-    # c = get_result(conn, b)
-    # print c
-    close(conn)
+    # conn = get_conn()
+    # get_monthly_in_dict(conn, '1273083', '2016-06')
+    #
+    # # print '九月底投资总市值：', get_earnings_month(conn, '1270805', 2016, 9)
+    # # print '十月底投资总市值：', get_earnings_month(conn, '1270805', 2016, 10)
+    # # a = get_product_amount(conn, '1270805', '2016-09-30 23:59:59')
+    # # b = get_product_price(conn, a, '2016-09-30 00:00:00')
+    # # c = get_result(conn, b)
+    # # print c
+    # close(conn)
+    a = 'szasdfasd'
+    print 'aaaa %s %s' % (a, a)
