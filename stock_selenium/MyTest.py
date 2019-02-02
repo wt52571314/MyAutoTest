@@ -18,10 +18,10 @@ browser.maximize_window()
 time.sleep(5)
 res_username = browser.find_elements_by_xpath("html/body/div[1]/div/main/div/section/article/validate-input[1]/div/input")
 for r_username in res_username:
-    r_username.send_keys('18070505645')
+    r_username.send_keys('======')
 res_admin_password = browser.find_elements_by_xpath("html/body/div[1]/div/main/div/section/article/validate-input[2]/div/input")
 for r_admin_password in res_admin_password:
-    r_admin_password.send_keys('bst52571314.com')
+    r_admin_password.send_keys('======.com')
 res_admin_post = browser.find_elements_by_xpath("html/body/div[1]/div/main/div/section/article/button")
 for r_admin_post in res_admin_post:
     r_admin_post.click()
